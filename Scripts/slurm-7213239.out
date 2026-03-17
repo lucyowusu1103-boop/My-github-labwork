@@ -1,0 +1,29 @@
+/dartfs-hpc/rc/home/j/f008f6j/.bashrc: line 22: /dartfs-hpc/rc/home/j/f008f6j/.local/bin/env: No such file or directory
+/dartfs-hpc/rc/home/j/f008f6j/.bashrc: line 22: /dartfs-hpc/rc/home/j/f008f6j/.local/bin/env: No such file or directory
+FASTQC of CAL03_FGC2096_s
+application/gzip
+FASTQC of CAL03_FGC2096_s
+application/gzip
+FASTQC of CAL03_FGC2098_s_1
+application/gzip
+FASTQC of CAL03_FGC2098_s_2
+application/gzip
+FASTQC of CAL03_FGC2098_s_3
+application/gzip
+FASTQC of CAL03_FGC2098_s_4
+application/gzip
+FASTQC of CAL03_FGC2099_s_1
+application/gzip
+FASTQC of CAL03_FGC2099_s_2
+application/gzip
+                     Sample Name  ...                                      Filename
+4     CAL03.FGC2099.s.2.CGGCTATG  ...  CAL03_FGC2099_s_2_CGGCTATG-CCTATCCT.fastq.gz
+0     CAL03.FGC2099.s.1.CGGCTATG  ...  CAL03_FGC2099_s_1_CGGCTATG-CCTATCCT.fastq.gz
+2     CAL03.FGC2098.s.1.CGGCTATG  ...  CAL03_FGC2098_s_1_CGGCTATG-CCTATCCT.fastq.gz
+7     CAL03.FGC2098.s.4.CGGCTATG  ...  CAL03_FGC2098_s_4_CGGCTATG-CCTATCCT.fastq.gz
+6     CAL03.FGC2098.s.3.CGGCTATG  ...  CAL03_FGC2098_s_3_CGGCTATG-CCTATCCT.fastq.gz
+1     CAL03.FGC2098.s.2.CGGCTATG  ...  CAL03_FGC2098_s_2_CGGCTATG-CCTATCCT.fastq.gz
+3  CAL03.FGC2096.s.1.R1.fastq.gz  ...                 CAL03_FGC2096_s_1.R1.fastq.gz
+5  CAL03.FGC2096.s.1.R2.fastq.gz  ...                 CAL03_FGC2096_s_1.R2.fastq.gz
+
+[8 rows x 6 columns]
